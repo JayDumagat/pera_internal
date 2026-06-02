@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TailAdmin Pro - React.js (v2.2.2)
 
 [TailAdmin](https://tailadmin.com) is a modern, responsive, and customizable admin dashboard template built using Tailwind CSS and React.js. It is designed to help developers build beautiful and functional dashboards quickly and easily.
@@ -189,3 +190,6 @@ A major update with comprehensive redesign and modern React patterns implementat
 ## License
 
 Refer to our [LICENSE](https://tailadmin.com/license) page for more information.
+=======
+# pera_internal
+>>>>>>> 6c936e139d37b9b458e58e7cadafba1ff3a1fcc9
